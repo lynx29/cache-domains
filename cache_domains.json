@@ -31,6 +31,11 @@
 			"domain_files": ["epicgames.txt"]
 		},
 		{
+			"name": "garena",
+			"description": "CDN for garena games",
+			"domain_files": ["garena.txt"]
+		},
+		{
 			"name": "frontier",
 			"description": "CDN for frontier games",
 			"domain_files": ["frontier.txt"]
