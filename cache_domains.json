@@ -45,6 +45,11 @@
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]
 		},
+        {
+			"name": "netease",
+			"description": "CDN for Netease Games",
+			"domain_files": ["netease.txt"]
+		},
 		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
