@@ -2,5 +2,5 @@ pubg.qcloud.gpipe.garenanow.com
 pubg.cdn.gpipe.garenanow.com
 lol.cdn.gpipe.garenanow.com
 lolph.cdn.gpipe.garenanow.com
-game.garena.com
-cdn.gxx.garenanow.com
+
+
