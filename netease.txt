@@ -1,2 +1,3 @@
-g61.gph.netease.com
+g61.update.netease.com
 h45na.update.netease.com
+*.update.netease.com
